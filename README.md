@@ -4,7 +4,7 @@ Simple project using Spring DATA JPA, PostgreSQL and Thymeleaf.
 Stack: Spring DATA JPA, PostgreSQL, Thymeleaf, Lombok, Maven.
 
 ## Step 1
-Install the PostgreSQL database.
+Install the [PostgreSQL](https://www.postgresql.org/download/) database.
 ```
 brew install postgresql
 ```
